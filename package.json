@@ -1,0 +1,21 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "go": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FeFranklin/Algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FeFranklin/Algorithms/issues"
+  },
+  "homepage": "https://github.com/FeFranklin/Algorithms#readme",
+  "type": "module"
+}
