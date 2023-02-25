@@ -1,6 +1,6 @@
-import binarySearch from './binarySearch.js'
+import binarySearch from './algos/binarySearch.js'
 import { generateIncreasignArray } from './utils.js'
 
-const result = binarySearch(generateIncreasignArray(128), 47)
+const result = binarySearch(generateIncreasignArray(130), 131)
 
 console.log(result)
