@@ -1,6 +1,6 @@
 const binarySearch = (orderedArray, item) => {
     let lowLimit = 0
-    let highLimit = orderedArray?.length
+    let highLimit = orderedArray?.length - 1
     let tries = 0
     while ( lowLimit <= highLimit) {
         // rounds down and returns the largest integer less than or equal to a given number.
